@@ -1,0 +1,15 @@
+[theme]
+# Cor Verde-Azulada Enel (Para os botões e barras laterais)
+primaryColor = "#2A7B76"
+
+# Cor do Fundo Principal do Site (Cinza bem clarinho)
+backgroundColor = "#F4F7F6"
+
+# Cor do Fundo Secundário (Menu Lateral)
+secondaryBackgroundColor = "#E8F1F1"
+
+# Cor do Texto (Deixa a letra sempre escura, acabando com o bug do fantasma)
+textColor = "#262730"
+
+# Estilo da fonte
+font = "sans serif"
